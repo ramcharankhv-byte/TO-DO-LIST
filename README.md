@@ -39,7 +39,7 @@ This app allows users to add, delete, and mark tasks as completed, with persiste
 
 Once deployed via GitHub Pages, your app will be accessible at:
 
-https://github.com/ramcharankhv-byte/TO-DO-LIST/
+https://ramcharankhv-byte.github.io/TO-DO-LIST/
 
 TO-DO-LIST/
 ├── index.html # Main HTML file
@@ -65,5 +65,6 @@ TO-DO-LIST/
 - Add a progress bar for completed tasks
 - Add a “Clear All Completed” button
 - Drag & drop to reorder tasks
+
 
 
